@@ -76,7 +76,7 @@ WSGI_APPLICATION = 'website.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'netology_homework_db3',
+        'NAME': 'netology_homework_db',
         'USER': 'dor',
         'PASSWORD': 'dor',
         'HOST': '127.0.0.1',
